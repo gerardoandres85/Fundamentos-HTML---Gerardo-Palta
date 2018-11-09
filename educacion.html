@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="author" content="Gerardo Palta">
+    <title>Educación</title>
+  </head>
+  <body>
+    <svg width="1200px" height="300px" viewBox="0 0 1200 300">
+      <image width="400" xlink:href="img/icon.svg"></image>
+    </svg>
+    <h1>Hoja de Vida</h1>
+    <h2>Datos Personales</h2>
+    <h3>Nombres: Gerardo Andrés</h3>
+    <h3>Apellidos: Palta Peña</h3>
+    <h3>Fecha de Nacimiento: 30-07-1985</h3>
+    <h3>Lugar de Nacimiento: Santiago, Chile</h3>
+    <nav>
+      <a href="index.html">Inicio</a>
+      |
+    	<a href="educacion.html">Educación</a>
+      |
+    	<a href="experiencia.html">Experiencia</a>
+    </nav>
+    <h2>Educación</h2>
+    <table border="1" cellpadding="10" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Año</th>
+          <th>Institución</th>
+          <th>Lugar</th>
+          <th>¿Culminó?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2005</td>
+          <td>ISCA</td>
+          <td>ANTOFAGASTA, Chile</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2010</td>
+          <td>INACAP</td>
+          <td>ANTOFAGASTA, CHILE</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2017</td>
+          <td>TRONWELL</td>
+          <td>ANTOFAGASTA, CHILE</td>
+          <td>SI</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Agregar Estudios</h3>
+    <p>
+      <label for="year"><strong>Año:</strong> </label>
+      <select name="year">
+        <option value="1">2018</option>
+        <option value="1">2017</option>
+        <option value="1">2016</option>
+        <option value="1">2015</option>
+        <option value="1">2014</option>
+        <option value="1">2013</option>
+        <option value="1">2012</option>
+        <option value="1">2011</option>
+        <option value="1">2010</option>
+      </select>
+    </p>
+    <form action="educacion.html" method="post">
+      <p>
+        <label for="institution"><strong>Institución:</strong> </label>
+        <input type="text" name="institution" required>
+      </p>
+      <p>
+        <label for="lugar"><strong>Lugar:</strong> </label>
+        <input type="text" name="lugar" required>
+      </p>
+      <p>
+        <input type="submit" value="Enviar">
+      </p>
+    </form>
+     <footer>
+       <p>gerardo.palta@gmail.com | +56 9 40753520 | <a href="https://www.linkedin.com/in/gerardo-andr%C3%A9s-palta-pe%C3%B1a-2074b1120/"  target="_blank">Linkedin</a></p>
+     </footer>
+  </body>
+</html>

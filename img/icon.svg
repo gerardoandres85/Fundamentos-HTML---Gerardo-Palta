@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m2.600161,231.761656l184.399637,141.614104l184.40007,-141.614104l-70.43424,-229.1374l-227.931017,0l-70.43445,229.1374z" fill="#FF0000" id="svg_7" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <circle cx="142.988983" cy="188.50001" fill="#FF0000" id="svg_1" r="74.330345" stroke="#ffffff" stroke-width="10"/>
+  <circle cx="231.000037" cy="187.50001" fill="#FF0000" id="svg_2" r="74.330345" stroke="#ffffff" stroke-width="10" transform="null"/>
+  <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_9" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="178.228785" xml:space="preserve" y="208.329549">G A</text>
+  <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_11" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="211.587838" xml:space="preserve" y="207.904463">P P</text>
+ </g>
+</svg>
