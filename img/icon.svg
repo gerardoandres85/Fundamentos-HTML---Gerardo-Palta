@@ -1,13 +1,31 @@
 <?xml version="1.0"?>
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
-
+ <defs>
+  <symbol height="480" id="svg_6" width="640" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+   <g class="layer">
+    <title>Layer 1</title>
+    <path d="m2.60016,231.76166l184.39964,141.6141l184.40007,-141.6141l-70.43424,-229.1374l-227.93102,0l-70.43445,229.1374z" fill="#FF0000" id="svg_5" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+    <circle cx="142.988983" cy="188.50001" fill="#FF0000" id="svg_4" r="74.330345" stroke="#ffffff" stroke-width="10"/>
+    <circle cx="231.000037" cy="187.50001" fill="#FF0000" id="svg_3" r="74.330345" stroke="#ffffff" stroke-width="10" transform="null"/>
+    <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_2" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="178.228785" xml:space="preserve" y="208.329549">G A</text>
+    <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_1" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="211.587838" xml:space="preserve" y="207.904463">P P</text>
+   </g>
+  </symbol>
+ </defs>
  <g class="layer">
   <title>Layer 1</title>
-  <path d="m2.600161,231.761656l184.399637,141.614104l184.40007,-141.614104l-70.43424,-229.1374l-227.931017,0l-70.43445,229.1374z" fill="#FF0000" id="svg_7" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
-  <circle cx="142.988983" cy="188.50001" fill="#FF0000" id="svg_1" r="74.330345" stroke="#ffffff" stroke-width="10"/>
-  <circle cx="231.000037" cy="187.50001" fill="#FF0000" id="svg_2" r="74.330345" stroke="#ffffff" stroke-width="10" transform="null"/>
-  <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_9" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="178.228785" xml:space="preserve" y="208.329549">G A</text>
-  <text fill="#ffffff" font-family="serif" font-size="19" font-weight="bold" id="svg_11" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.44444 0 0 2.44444 -321.863 -301.167)" x="211.587838" xml:space="preserve" y="207.904463">P P</text>
+  <use id="svg_7" transform="matrix(0.3368 0 0 0.3368 740.768 49.7662)" x="0" xlink:href="#svg_6" y="0"/>
+  <g id="svg_8"/>
+  <g id="svg_20">
+   <path d="m2.91749,227.585415l230.14953,138.884036l230.15007,-138.884036l-87.909106,-224.720038l-284.481126,0l-87.909368,224.720038z" fill="#ff0000" id="svg_17" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+   <g id="svg_18">
+    <circle cx="188.567299" cy="184.167416" fill="#ff0000" id="svg_11" r="94.047859" stroke="#ffffff" stroke-width="12"/>
+    <circle cx="277.567299" cy="185.167416" fill="#ff0000" id="svg_13" r="94.047859" stroke="#ffffff" stroke-width="12"/>
+    <text fill="#ffffff" font-family="serif" font-size="39" font-weight="bold" id="svg_14" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="132.363197" xml:space="preserve" y="193.167416">GA</text>
+    <text fill="#ffffff" font-family="serif" font-size="39" font-weight="bold" id="svg_15" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="218.37101" xml:space="preserve" y="193.167416">PP</text>
+   </g>
+  </g>
  </g>
 </svg>

@@ -7,7 +7,7 @@
     <title>Educación</title>
   </head>
   <body>
-    <svg width="1200px" height="300px" viewBox="0 0 1200 300">
+    <svg width="1200px" height="250px" viewBox="0 0 1200 250">
       <image width="400" xlink:href="img/icon.svg"></image>
     </svg>
     <h1>Hoja de Vida</h1>
@@ -28,6 +28,7 @@
       <thead>
         <tr>
           <th>Año</th>
+          <th>Título</th>
           <th>Institución</th>
           <th>Lugar</th>
           <th>¿Culminó?</th>
@@ -36,18 +37,21 @@
       <tbody>
         <tr>
           <td>2005</td>
+          <td>Técnico Ejecutivo de Ventas</td>
           <td>ISCA</td>
           <td>ANTOFAGASTA, Chile</td>
           <td>SI</td>
         </tr>
         <tr>
           <td>2010</td>
+          <td>Ingeniero en Informática</td>
           <td>INACAP</td>
           <td>ANTOFAGASTA, CHILE</td>
           <td>SI</td>
         </tr>
         <tr>
           <td>2017</td>
+          <td>Certificado Tronwell - Idioma Inglés</td>
           <td>TRONWELL</td>
           <td>ANTOFAGASTA, CHILE</td>
           <td>SI</td>
@@ -70,6 +74,10 @@
       </select>
     </p>
     <form action="educacion.html" method="post">
+      <p>
+        <label for="titulo"><strong>Título:</strong> </label>
+        <input type="text" name="titulo" required>
+      </p>
       <p>
         <label for="institution"><strong>Institución:</strong> </label>
         <input type="text" name="institution" required>
